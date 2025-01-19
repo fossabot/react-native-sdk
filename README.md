@@ -1,4 +1,6 @@
 # Using Truecaller SDK with your ReactNative App
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Freact-native-sdk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Freact-native-sdk?ref=badge_shield)
+
 
 ## Getting started
 
@@ -322,3 +324,7 @@ Now to invoke the verification dialog, simply call the authenticate() method
           return nativeModules;
         }
       }
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Freact-native-sdk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Freact-native-sdk?ref=badge_large)
